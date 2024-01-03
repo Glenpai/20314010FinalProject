@@ -56,28 +56,6 @@ p a:hover {
     position: relative;
     width: 130px;
 }
-
-.logo {
-    height: 162px;
-    border-bottom: 1px solid #e4a100;
-    border-right: 1px solid #FEC848;
-    height: 210px;
-    width: 959px;
-    background: url(../images/bg-logo.jpg) repeat-y;
-}
-
-.logo span {
-    background: url("../images/shadow1.png") no-repeat scroll 11px bottom transparent;
-    display: block;
-    height: 193px;
-    padding: 48px 0 0 36px;
-}
-
-.logo a {
-    display: block;
-    width: 89px;
-}
-
 .sidebar ul {
     list-style: none;
     padding: 0;
