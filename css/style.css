@@ -16,11 +16,11 @@ a img {
     display: block;
 }
 
-.body .img.resize-300px {
+.body .resize-300px {
     max-width: 300px;
     height: auto;
 }
-.body .img.resize-30px {
+.body .resize-30px {
     max-width: 30px;
     height: auto;
 }
