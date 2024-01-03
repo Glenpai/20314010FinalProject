@@ -15,8 +15,8 @@ a img {
     border: 0;
     display: block;
 }
-.resize-300px {
-    max-width: 300px;
+.resize-400px {
+    max-width: 400px;
     height: auto;
 }
 
