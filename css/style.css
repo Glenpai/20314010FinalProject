@@ -20,7 +20,7 @@ a img {
     max-width: 300px;
     height: auto;
 }
-.body .about img.resize-30px {
+.body .img.resize-30px {
     max-width: 30px;
     height: auto;
 }
