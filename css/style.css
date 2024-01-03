@@ -414,3 +414,7 @@ p a:hover {
 .body .blog div ul li p a:hover {
 	text-decoration:underline;
 }
+.body img.resize-500px {
+    max-width: 500px;
+    height: auto;
+}
