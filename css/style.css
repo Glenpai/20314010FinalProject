@@ -252,3 +252,46 @@ p a:hover {
     font-size: 25px;
     color: #ff
 }
+.body .blog {
+    margin-top: 50px; /* Adjust the margin as needed */
+}
+
+.body .blog h3 {
+    font-size: 24px;
+    color: #333;
+    margin-bottom: 10px;
+}
+
+.body .blog span {
+    color: #888;
+}
+
+.body .blog img.resize-400px {
+    max-width: 400px;
+    height: auto;
+    margin-top: 10px; /* Adjust the margin as needed */
+}
+
+.body .blog p {
+    font-size: 14px;
+    line-height: 24px;
+    color: #555;
+    margin-bottom: 20px;
+}
+
+.body .blog h4 {
+    font-size: 18px;
+    color: #333;
+    margin-bottom: 10px;
+}
+
+.body .blog ul {
+    margin-bottom: 20px;
+}
+
+.body .blog li p {
+    font-size: 14px;
+    line-height: 24px;
+    color: #555;
+    margin-bottom: 10px;
+}
