@@ -11,6 +11,9 @@ a {
 a img {
 	border:0;
 	display:block;
+img{
+width: 500px;
+}
 }
 .background {
 	background:url(../images/bg-background.png) repeat-x left top;
