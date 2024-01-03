@@ -11,8 +11,11 @@ a {
 a img {
 	border:0;
 	display:block;
-img{
-width: 500px;
+}
+
+.body img.resize-500px {
+    max-width: 500px;
+    height: auto;
 }
 }
 .background {
@@ -413,8 +416,4 @@ p a:hover {
 }
 .body .blog div ul li p a:hover {
 	text-decoration:underline;
-}
-.body img.resize-500px {
-    max-width: 500px;
-    height: auto;
 }
