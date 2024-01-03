@@ -16,7 +16,7 @@ a img {
     display: block;
 }
 
-.body img.resize-500px {
+.body .about img.resize-500px {
     max-width: 500px;
     height: auto;
 }
@@ -274,3 +274,4 @@ p a:hover {
     font-family: Georgia, "Times New Roman", Times, serif;
     font-size: 25px;
     color: #ff
+}
