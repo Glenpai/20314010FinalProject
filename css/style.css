@@ -16,7 +16,7 @@ a img {
     display: block;
 }
 
-.body .about img.resize-500px {
+.body .about img.resize-300px {
     max-width: 300px;
     height: auto;
 }
