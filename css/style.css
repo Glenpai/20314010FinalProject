@@ -20,6 +20,10 @@ a img {
     max-width: 300px;
     height: auto;
 }
+.body .about img.resize-30px {
+    max-width: 30px;
+    height: auto;
+}
 
 .background {
     background: url(../images/bg-background.png) repeat-x left top;
