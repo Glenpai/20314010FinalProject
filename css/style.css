@@ -209,7 +209,7 @@ p a:hover {
 }
 
 .body ul li.first a img:hover {
-    filter: alpha(opacity=90);/* Needed for IE7 */
+    filter: alpha(opacity=90);
     opacity: 0.9;
 }
 
@@ -239,7 +239,7 @@ p a:hover {
 }
 
 .body ul li.second a img:hover {
-    filter: alpha(opacity=90);/* Needed for IE7 */
+    filter: alpha(opacity=90);
     opacity: 0.9;
 }
 
@@ -253,7 +253,7 @@ p a:hover {
     color: #ff
 }
 .body .blog {
-    margin-top: 50px; /* Adjust the margin as needed */
+    margin-top: 50px; 
 }
 
 .body .blog h3 {
@@ -269,7 +269,7 @@ p a:hover {
 .body .blog img.resize-400px {
     max-width: 400px;
     height: auto;
-    margin-top: 10px; /* Adjust the margin as needed */
+    margin-top: 10px; 
 }
 
 .body .blog p {
