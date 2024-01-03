@@ -16,12 +16,13 @@ a img {
     display: block;
 }
 
-.body .resize-300px {
-    max-width: 300px;
+.resize-30px {
+    max-width: 30px;
     height: auto;
 }
-.body .resize-30px {
-    max-width: 30px;
+
+.resize-300px {
+    max-width: 300px;
     height: auto;
 }
 
