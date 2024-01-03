@@ -15,12 +15,6 @@ a img {
     border: 0;
     display: block;
 }
-
-.resize-30px {
-    max-width: 30px;
-    height: auto;
-}
-
 .resize-300px {
     max-width: 300px;
     height: auto;
